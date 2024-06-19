@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1718387370 source:c:\users\ingri\onedrive\documentos\faculdade\eda\desempenhoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"menu.h"
+
+1718387191 c:\users\ingri\onedrive\documentos\faculdade\eda\desempenhoprojeto\menu.h
+
+1718387292 source:c:\users\ingri\onedrive\documentos\faculdade\eda\desempenhoprojeto\menu.c
+	<stdio.h>
+
+1718480042 source:c:\users\vitor\onedrive\documentos\ingrid\eda\desempenhoprojeto\menu.c
+	<stdio.h>
+
+1718479108 source:c:\users\vitor\onedrive\documentos\ingrid\eda\desempenhoprojeto\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+	"sort.h"
+
+1718480122 c:\users\vitor\onedrive\documentos\ingrid\eda\desempenhoprojeto\sort.h
+
+1718479038 source:c:\users\vitor\onedrive\documentos\ingrid\eda\desempenhoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+
+1718443014 c:\users\vitor\onedrive\documentos\ingrid\eda\desempenhoprojeto\menu.h
+
+1718754250 source:c:\users\aluno\desktop\desempenhoordenacao-main\desempenhoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"menu.h"
+
+1718489212 c:\users\aluno\desktop\desempenhoordenacao-main\desempenhoprojeto\menu.h
+
+1718489212 source:c:\users\aluno\desktop\desempenhoordenacao-main\desempenhoprojeto\menu.c
+	<stdio.h>
+
+1718754173 source:c:\users\aluno\desktop\desempenhoordenacao-main\desempenhoprojeto\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+	"sort.h"
+
+1718753486 c:\users\aluno\desktop\desempenhoordenacao-main\desempenhoprojeto\sort.h
+
